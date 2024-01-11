@@ -57,3 +57,9 @@
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![highlight.io](https://img.shields.io/badge/highlight.io-9F9F9F?style=for-the-badge&logo=highlightdotio&logoColor=white)](https://highlight.io/)
+
+<hr>
+
+
+![트립스케치](https://github.com/seoyeon-00/tripsketch/assets/110542210/bb42bf65-9123-47aa-8f33-d1bd115f343d)
+
