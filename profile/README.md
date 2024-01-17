@@ -18,7 +18,7 @@
 
 ## Tech Stack
 
-![Frontend Language and Frameworks](https://img.shields.io/badge/-Frontend%20Languages%20and%20Frameworks-00BFFF?style=for-the-badge&logo=react&logoColor=white)<br>
+![Frontend Language and Frameworks](https://img.shields.io/badge/-Frontend%20Language%20and%20Frameworks-00BFFF?style=for-the-badge&logo=react&logoColor=white)<br>
 [![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -32,7 +32,7 @@
 
 <hr>
 
-![Backend Languages and Frameworks](https://img.shields.io/badge/-Programming%20Languages%20and%20Frameworks-8A2BE2?style=for-the-badge&logo=appveyor&logoColor=white)<br>
+![Backend Language and Frameworks](https://img.shields.io/badge/-Backend%20Language%20and%20Frameworks-8A2BE2?style=for-the-badge&logo=appveyor&logoColor=white)<br>
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring Data MongoDB](https://img.shields.io/badge/Spring_Data_MongoDB-47A248?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-data-mongodb)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=FF4081)](https://kotlinlang.org/)
@@ -56,7 +56,6 @@
 ![Other Tools](https://img.shields.io/badge/-Other%20Tools-32CD32?style=for-the-badge&logo=nuget&logoColor=white)<br>
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![highlight.io](https://img.shields.io/badge/highlight.io-9F9F9F?style=for-the-badge&logo=highlightdotio&logoColor=white)](https://highlight.io/)
 
 <hr>
 
